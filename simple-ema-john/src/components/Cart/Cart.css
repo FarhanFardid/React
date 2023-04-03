@@ -1,0 +1,12 @@
+.cart{
+    background-color: #e7d350;
+    padding: 20px;
+    font-weight: 600;
+    position: sticky;
+    top:0;
+    
+}
+
+#grand{
+    font-size: larger;
+}
